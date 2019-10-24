@@ -1,0 +1,4 @@
+/vendor/*
+*.ini
+*.txt
+/downloads/*

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "norkunas/youtube-dl-php": "^1.4",
+        "madcoda/php-youtube-api": "^1.2"
+    }
+}
