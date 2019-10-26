@@ -1,6 +1,18 @@
 {
+    "name": "boris/youtube-download",
+    "description": "Helps to download songs from youtube using youtubedl and youtubeapi pacages",
+    "type": "project",
     "require": {
         "norkunas/youtube-dl-php": "^1.4",
         "madcoda/php-youtube-api": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "boris",
+            "email": "baldrys1992@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"DownloadSong\\": "src/"}
     }
 }

@@ -2,7 +2,6 @@
 
 namespace Baldrys\DownloadSong;
 
-require __DIR__ . '/../vendor/autoload.php';
 use Madcoda\Youtube\Youtube;
 use YoutubeDl\YoutubeDl;
 

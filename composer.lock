@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dd80b4e18259912d495903c092c17c57",
+    "content-hash": "1e1e074c4baf32d3d4665234e96b2a0c",
     "packages": [
         {
             "name": "madcoda/php-youtube-api",
