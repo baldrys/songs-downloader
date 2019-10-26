@@ -1,6 +1,6 @@
 <?php
 
-namespace Baldrys\DownloadSong;
+namespace DownloadSong;
 
 use Madcoda\Youtube\Youtube;
 use YoutubeDl\YoutubeDl;
