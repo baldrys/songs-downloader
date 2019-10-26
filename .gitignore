@@ -1,4 +1,4 @@
 /vendor/*
+/downloads/*
 *.ini
 *.txt
-/downloads/*
